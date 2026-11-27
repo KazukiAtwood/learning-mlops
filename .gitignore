@@ -26,6 +26,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 /data/
+mlflow.db
+mlruns/
+mlartifacts/
+
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
@@ -36,6 +40,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+Anaconda3-2025.12-2-Linux-x86_64.sh
 
 # Unit test / coverage reports
 htmlcov/
